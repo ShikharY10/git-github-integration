@@ -74,6 +74,6 @@ public class Utils {
         System.out.println("\t\tIt also create readme.md file and also create the first commit");
         System.out.println("\tExample: java App create -n <NAME_OF_REPO> -d <DESCRIPTION> -t <OAUTH_TOKEN>");
         System.out.println("\tdestroy  -> It delete the remote github repository.");
-        System.out.println("\tExample: java App destroy -u <GOTHUB_USERNAME> -r <REPO_NAME> -t <OAUTH_TOKEN>");
+        System.out.println("\tExample: java App destroy -u <GITHUB_USERNAME> -r <REPO_NAME> -t <OAUTH_TOKEN>");
     }
 }
